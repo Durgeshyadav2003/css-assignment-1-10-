@@ -1,0 +1,39 @@
+body {
+    background-color: #242b2e;
+    color: aliceblue
+}
+.section-parent {
+    margin: 0px 150px 0px 150px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+    .div1 {
+        width: 100%;
+        background-color: #ff6666;
+        height: 65px;
+        text-align: center;
+        padding-top: 6px;
+        margin-top: 23px;
+        position: sticky;
+        top: 0px;
+    }
+    .para1 {
+        color: black;
+        font-size: 19px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .para2 {
+        text-align: center;
+        color: #c86f38;
+        font-size: 25px;
+    }
+    .div2 {
+        text-align: center;
+    }
+    img {
+        width: 400px;
+    }
+    .para3 {
+        color: #cf7a19;
+        font-size: 25px;
+       
+    }

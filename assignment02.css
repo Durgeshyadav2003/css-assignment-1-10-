@@ -1,0 +1,39 @@
+body {
+    background-color: #100c07;
+}
+section {
+    padding: 40px;
+    color: #ffff;
+}
+.div1 {
+    float: left;
+    padding-left: 40px;
+    padding-top: 150px;
+    width: 60%;
+}
+h1 {
+    font-size: 60px;
+    margin: 0px;
+}
+p {
+    font-size: 20px;
+}
+button {
+    background-color: #5a4bda;
+    color: white;
+    height: 30px;
+    width: 150px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 13px;
+}
+.div2 {
+    text-align: center;
+    float: right;
+    margin-top: 100px;
+}
+img {
+    width: 500px;
+}
+

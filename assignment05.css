@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    margin: 200px;
+}
+
+.button1 {
+    width: 130px;
+    height: 35px;
+    background-color: #e55454;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    font-weight: bold;
+    position: relative;
+}
+.span1 {
+   background-color: black;
+   color: white;
+   font-size: 10px;
+   width: 40px;
+   padding: 5px 9px;
+   border-radius: 4px;
+ position: absolute;
+ bottom: 25px;
+}
